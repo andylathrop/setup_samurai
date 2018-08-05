@@ -1,0 +1,20 @@
+2018-08-05 13:42:01,816 - INFO - Getting OS version
+2018-08-05 13:42:01,817 - INFO - Mac OS X (darwin) detected!
+2018-08-05 13:42:01,817 - DEBUG - setting installer command globals
+2018-08-05 13:42:01,817 - INFO - Checking for homebrew installation
+2018-08-05 13:42:01,817 - INFO - Homebrew is already installed! [/usr/local/bin/brew]
+2018-08-05 13:42:01,817 - WARNING - *** Warning: About to alter system, abort by pressing ctrl-c in the next 10 seconds!
+2018-08-05 13:42:11,858 - INFO - Updating package manager with 'brew update'
+2018-08-05 13:42:11,859 - INFO - Updating package manager... DONE!
+2018-08-05 13:42:14,649 - INFO - wget successfully installed!
+2018-08-05 13:42:17,314 - INFO - git successfully installed!
+2018-08-05 13:42:19,947 - INFO - zsh successfully installed!
+2018-08-05 13:42:22,664 - WARNING - pip installation failed!
+2018-08-05 13:42:25,322 - INFO - pipenv successfully installed!
+2018-08-05 13:42:27,956 - INFO - screen successfully installed!
+2018-08-05 13:42:30,633 - INFO - tmux successfully installed!
+2018-08-05 13:42:33,282 - INFO - coreutils successfully installed!
+2018-08-05 13:42:37,044 - INFO - hping successfully installed!
+2018-08-05 13:42:39,663 - INFO - nmap successfully installed!
+2018-08-05 13:42:42,289 - INFO - vim successfully installed!
+2018-08-05 13:42:42,290 - INFO - DONE!
