@@ -121,6 +121,7 @@ try:
     print('\n')
 
 except:
+    print('')
     logging.warning('User aborted, exiting...\n')
     sys.exit()
 
